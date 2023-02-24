@@ -1,1 +1,3 @@
-index.html
+# All Jpeg and PNG formats are ignored by default
+*.Jpeg,*.png,*.Jpg
+
